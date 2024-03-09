@@ -22,7 +22,8 @@ FME Flow Certified Professional
 ## Sample Projects
 
 <a href="https://github.com/pandaacoding/FME-PhotoAnnotation">Photo Annotation Project</a>
-Exhibit Automation
+
+<a href="https://github.com/pandaacoding/FME-Exhibit-Automation/tree/main">Exhibit Automation</a>
 
 
 
